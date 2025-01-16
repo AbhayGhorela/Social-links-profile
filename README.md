@@ -10,7 +10,6 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
 - [Author](#author)
 
@@ -34,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (https://github.com/AbhayGhorela/Social-links-profile)
+- Live Site URL:(https://abhayghorela.github.io/Social-links-profile/)
 
 ## My process
 
